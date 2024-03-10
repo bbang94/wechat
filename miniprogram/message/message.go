@@ -11,9 +11,9 @@ import (
 
 	"github.com/tidwall/gjson"
 
-	"github.com/silenceper/wechat/v2/miniprogram/context"
-	"github.com/silenceper/wechat/v2/miniprogram/security"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/bbang94/wechat/v2/miniprogram/context"
+	"github.com/bbang94/wechat/v2/miniprogram/security"
+	"github.com/bbang94/wechat/v2/util"
 )
 
 // ConfirmReceiveMethod 确认收货方式

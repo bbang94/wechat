@@ -3,14 +3,14 @@ package miniprogram
 import (
 	"fmt"
 
-	"github.com/silenceper/wechat/v2/credential"
-	"github.com/silenceper/wechat/v2/miniprogram"
-	miniConfig "github.com/silenceper/wechat/v2/miniprogram/config"
-	miniContext "github.com/silenceper/wechat/v2/miniprogram/context"
-	"github.com/silenceper/wechat/v2/miniprogram/urllink"
-	openContext "github.com/silenceper/wechat/v2/openplatform/context"
-	"github.com/silenceper/wechat/v2/openplatform/miniprogram/basic"
-	"github.com/silenceper/wechat/v2/openplatform/miniprogram/component"
+	"github.com/bbang94/wechat/v2/credential"
+	"github.com/bbang94/wechat/v2/miniprogram"
+	miniConfig "github.com/bbang94/wechat/v2/miniprogram/config"
+	miniContext "github.com/bbang94/wechat/v2/miniprogram/context"
+	"github.com/bbang94/wechat/v2/miniprogram/urllink"
+	openContext "github.com/bbang94/wechat/v2/openplatform/context"
+	"github.com/bbang94/wechat/v2/openplatform/miniprogram/basic"
+	"github.com/bbang94/wechat/v2/openplatform/miniprogram/component"
 )
 
 // MiniProgram 代小程序实现业务

@@ -6,7 +6,7 @@
 
 |          名称           | 请求方式 | URL                        | 是否已实现 | 使用方法 |贡献者|完成时间|
 | :---------------------: | -------- | :------------------------- | ---------- | -------- |-------- |-------- |
-| 获取公众号类目       | GET      | /wxaapi/newtmpl/getcategory            | NO         |   |silenceper| 2021-12-20|
+| 获取公众号类目       | GET      | /wxaapi/newtmpl/getcategory            | NO         |   |bbang94| 2021-12-20|
 
 - [微信公众号](./officialaccount.md)
 - [小程序](./miniprogram.md)

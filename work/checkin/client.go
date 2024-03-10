@@ -1,7 +1,7 @@
 package checkin
 
 import (
-	"github.com/silenceper/wechat/v2/work/context"
+	"github.com/bbang94/wechat/v2/work/context"
 )
 
 // Client 打卡接口实例

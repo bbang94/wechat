@@ -1,5 +1,5 @@
 /*
- *   Copyright silenceper/wechat Author(https://silenceper.com/wechat/). All Rights Reserved.
+ *   Copyright bbang94/wechat Author(https://bbang94.com/wechat/). All Rights Reserved.
  *
  *   Licensed under the Apache License, Version 2.0 (the "License");
  *   you may not use this file except in compliance with the License.
@@ -13,7 +13,7 @@
  *   See the License for the specific language governing permissions and
  *   limitations under the License.
  *
- *   You can obtain one at https://github.com/silenceper/wechat.
+ *   You can obtain one at https://github.com/bbang94/wechat.
  *
  */
 
@@ -28,7 +28,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/bbang94/wechat/v2/util"
 )
 
 // SetSessionKey 设置 sessionKey

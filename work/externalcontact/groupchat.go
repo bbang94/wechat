@@ -3,7 +3,7 @@ package externalcontact
 import (
 	"fmt"
 
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/bbang94/wechat/v2/util"
 )
 
 // opengIDToChatIDURL 客户群opengid转换URL

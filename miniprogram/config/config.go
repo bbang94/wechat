@@ -2,7 +2,7 @@
 package config
 
 import (
-	"github.com/silenceper/wechat/v2/cache"
+	"github.com/bbang94/wechat/v2/cache"
 )
 
 // Config .config for 小程序

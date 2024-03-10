@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/silenceper/wechat/v2/officialaccount/context"
-	officialOauth "github.com/silenceper/wechat/v2/officialaccount/oauth"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/bbang94/wechat/v2/officialaccount/context"
+	officialOauth "github.com/bbang94/wechat/v2/officialaccount/oauth"
+	"github.com/bbang94/wechat/v2/util"
 )
 
 const (

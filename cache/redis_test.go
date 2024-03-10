@@ -21,7 +21,7 @@ func TestRedis(t *testing.T) {
 			Host: server.Addr(),
 		}
 		redis = NewRedis(ctx, opts)
-		val   = "silenceper"
+		val   = "bbang94"
 		key   = "username"
 	)
 	redis.SetConn(redis.conn)
